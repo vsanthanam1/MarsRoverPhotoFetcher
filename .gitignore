@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+*.user
+*.http
+*.log
+*.db
+*.sqlite
+*.DS_Store
