@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\controllers\\roverphotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\controllers\\roverphotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\data\\sample-rover-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\data\\sample-rover-response.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266CD5F1-AD69-43B2-B666-302128A52659}|MarsRoverPhotoFetcherTest\\MarsRoverPhotoFetcherTest.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetchertest\\nasamarsroverclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266CD5F1-AD69-43B2-B666-302128A52659}|MarsRoverPhotoFetcherTest\\MarsRoverPhotoFetcherTest.csproj|solutionrelative:marsroverphotofetchertest\\nasamarsroverclienttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\marsroverphotofetcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\marsroverphotofetcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\ai_notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\ai_notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\implementations\\nasamarsroverclient .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\implementations\\nasamarsroverclient .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\implementations\\roverimagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\implementations\\roverimagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\implementations\\roverjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\implementations\\roverjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\implementations\\datesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\implementations\\datesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\interfaces\\iroverjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\interfaces\\iroverjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\roverrunresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\roverrunresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\interfaces\\iroverimagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\interfaces\\iroverimagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\interfaces\\inasamarsroverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\interfaces\\inasamarsroverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\nasaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\nasaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\marsroverinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\marsroverinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\marsrovercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\marsrovercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\marsrovercamerasummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\marsrovercamerasummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\marsroverphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\marsroverphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\marsroverphotosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\marsroverphotosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\data\\dates.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\data\\dates.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\implementations\\dateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\implementations\\dateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\interfaces\\idatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\interfaces\\idatesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\models\\roverphotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\models\\roverphotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|c:\\dotnet_projects\\marsroverphotofetcher\\marsroverphotofetcher\\services\\interfaces\\idateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC1CF8E-A6C6-4E5B-8768-5B0F37015D09}|MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj|solutionrelative:marsroverphotofetcher\\services\\interfaces\\idateparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2826931d-bb12-452c-b660-c21852fb5da2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NasaMarsRoverClientTests.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcherTest\\NasaMarsRoverClientTests.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcherTest\\NasaMarsRoverClientTests.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcherTest\\NasaMarsRoverClientTests.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcherTest\\NasaMarsRoverClientTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:06:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\.gitignore",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\.gitignore",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\.gitignore",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\.gitignore",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T19:37:16.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AI_NOTES.md",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\AI_NOTES.md",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\AI_NOTES.md",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\AI_NOTES.md",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\AI_NOTES.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-05T18:48:26.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\appsettings.json",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\appsettings.json",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\appsettings.json",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T03:55:27.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sample-rover-response.json",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Data\\sample-rover-response.json",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Data\\sample-rover-response.json",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Data\\sample-rover-response.json",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Data\\sample-rover-response.json",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-05T15:25:27.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Program.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Program.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Program.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:02:39.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoverImageDownloader.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\RoverImageDownloader.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Implementations\\RoverImageDownloader.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\RoverImageDownloader.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Implementations\\RoverImageDownloader.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvzYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:20:10.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRoverImageDownloader.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverImageDownloader.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverImageDownloader.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverImageDownloader.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverImageDownloader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:19:36.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoverPhotosController.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Controllers\\RoverPhotosController.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Controllers\\RoverPhotosController.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Controllers\\RoverPhotosController.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Controllers\\RoverPhotosController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T02:42:39.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarsRoverPhotoFetcher.csproj",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T02:43:25.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NasaMarsRoverClient .cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\NasaMarsRoverClient .cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Implementations\\NasaMarsRoverClient .cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\NasaMarsRoverClient .cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Implementations\\NasaMarsRoverClient .cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:18:06.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatesService.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\DatesService.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Implementations\\DatesService.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\DatesService.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Implementations\\DatesService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:33:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoverJobService.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\RoverJobService.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Implementations\\RoverJobService.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\RoverJobService.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Implementations\\RoverJobService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:22:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\README.md",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\README.md",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\README.md",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\README.md",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-05T17:57:03.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoverRunResultDto.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\RoverRunResultDto.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\RoverRunResultDto.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\RoverRunResultDto.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\RoverRunResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:22:45.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRoverJobService.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverJobService.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverJobService.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverJobService.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IRoverJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:29:12.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "INasaMarsRoverClient.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\INasaMarsRoverClient.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Interfaces\\INasaMarsRoverClient.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\INasaMarsRoverClient.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Interfaces\\INasaMarsRoverClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:17:35.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NasaOptions.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\NasaOptions.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\NasaOptions.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\NasaOptions.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\NasaOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:16:03.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MarsRoverInfo.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverInfo.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\MarsRoverInfo.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverInfo.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\MarsRoverInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:10:08.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MarsRoverPhoto.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverPhoto.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\MarsRoverPhoto.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverPhoto.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\MarsRoverPhoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:07:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MarsRoverCamera.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverCamera.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\MarsRoverCamera.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverCamera.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\MarsRoverCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:09:26.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MarsRoverCameraSummary.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverCameraSummary.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\MarsRoverCameraSummary.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverCameraSummary.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\MarsRoverCameraSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:10:45.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MarsRoverPhotosResponse.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverPhotosResponse.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\MarsRoverPhotosResponse.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\MarsRoverPhotosResponse.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\MarsRoverPhotosResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:06:29.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dates.txt",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Data\\dates.txt",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Data\\dates.txt",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Data\\dates.txt",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Data\\dates.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-05T15:22:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DateParser.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\DateParser.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Implementations\\DateParser.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Implementations\\DateParser.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Implementations\\DateParser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:01:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDatesService.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IDatesService.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IDatesService.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IDatesService.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IDatesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:31:43.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoverPhotoDto.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\RoverPhotoDto.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Models\\RoverPhotoDto.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Models\\RoverPhotoDto.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Models\\RoverPhotoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:11:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDateParser.cs",
+              "DocumentMoniker": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IDateParser.cs",
+              "RelativeDocumentMoniker": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IDateParser.cs",
+              "ToolTip": "C:\\DotNet_Projects\\MarsRoverPhotoFetcher\\MarsRoverPhotoFetcher\\Services\\Interfaces\\IDateParser.cs",
+              "RelativeToolTip": "MarsRoverPhotoFetcher\\Services\\Interfaces\\IDateParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:00:19.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

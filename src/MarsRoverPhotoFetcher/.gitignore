@@ -1,0 +1,52 @@
+﻿## Build output
+bin/
+obj/
+TestResults/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## OS files
+*.DS_Store
+Thumbs.db
+
+## .NET secrets
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/appsettings.*.local.json
+secrets.json
+
+## Entity Framework
+Migrations/
+
+## NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## Cache
+*.cache
+*.tmp
+
+## SQLite / Local DB
+*.db
+*.sqlite
+
+## HTTP scratch files
+*.http
+
+## Publish output
+publish/
